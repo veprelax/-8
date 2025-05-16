@@ -142,15 +142,15 @@ The `netstat` command shows network statistics, active connections, routing tabl
 
 ---
 ## Screenshots for tasks
-![image](https://github.com/user-attachments/assets/fefb8132-0fc4-4d62-9e14-847d3f1c67f8)
-![image](https://github.com/user-attachments/assets/bf0109cf-27de-49f5-985a-d94111bac5e6)
-![image](https://github.com/user-attachments/assets/5d13455d-3d35-40fe-ada0-a33980c2be56)
-![image](https://github.com/user-attachments/assets/9b825b1b-c461-4202-b47f-068b06d792ff)
-![image](https://github.com/user-attachments/assets/195db2b6-f45b-418d-bd46-6f2e9f6bd762)
-![image](https://github.com/user-attachments/assets/00664730-bb7d-4d99-b4d3-51900d0b5337)
-![image](https://github.com/user-attachments/assets/621e4983-6442-48e2-ab6e-8f870fcfbb55)
-![image](https://github.com/user-attachments/assets/9cf1a35c-2289-4132-acc8-e5733bb0e47f)
-![image](https://github.com/user-attachments/assets/fba9d323-fc7a-4716-ba97-d59fffaed65b)
+![Screenshot 1](https://github.com/user-attachments/assets/fefb8132-0fc4-4d62-9e14-847d3f1c67f8)
+![Screenshot 2](https://github.com/user-attachments/assets/bf0109cf-27de-49f5-985a-d94111bac5e6)
+![Screenshot 3](https://github.com/user-attachments/assets/5d13455d-3d35-40fe-ada0-a33980c2be56)
+![Screenshot 4](https://github.com/user-attachments/assets/9b825b1b-c461-4202-b47f-068b06d792ff)
+![Screenshot 5](https://github.com/user-attachments/assets/195db2b6-f45b-418d-bd46-6f2e9f6bd762)
+![Screenshot 6](https://github.com/user-attachments/assets/00664730-bb7d-4d99-b4d3-51900d0b5337)
+![Screenshot 7](https://github.com/user-attachments/assets/621e4983-6442-48e2-ab6e-8f870fcfbb55)
+![Screenshot 8](https://github.com/user-attachments/assets/9cf1a35c-2289-4132-acc8-e5733bb0e47f)
+![Screenshot 9](https://github.com/user-attachments/assets/fba9d323-fc7a-4716-ba97-d59fffaed65b)
 
 ## Summary
 
